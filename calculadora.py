@@ -1,7 +1,7 @@
 import tkinter as tk
 
 janela = tk.Tk()
-janela.geometry("320x333")
+janela.geometry("321x333")
 janela.resizable(0, 0)
 janela.title("Calculadora")
 
